@@ -19,6 +19,7 @@ namespace DartsApp
         private Label[] array_Player1RoundScoreLabel = new Label[12];
         private Label[] array_Player2ScoreLabel = new Label[3];
         private Label[] array_Player2RoundScoreLabel = new Label[12];
+        private bool finishFlag = true;
 
         public string SendData
         {
@@ -48,7 +49,11 @@ namespace DartsApp
             int i;
             if (e.KeyData == Keys.Enter && int.TryParse(ScoreBox1.Text, out i) && int.Parse(ScoreBox1.Text) <= 60)
             {
-                if(this.gameCounter >= 3)
+                array_Player1ScoreLabel[this.gameCounter].Text = ScoreBox1.Text;
+                ScoreBox1.Text = "";
+                this.gameCounter++;
+
+                if (this.gameCounter >= 3)
                 {
                     ScoreBox1.Enabled = false;
                     ScoreBox2.Enabled = true;
@@ -57,15 +62,9 @@ namespace DartsApp
                     Player1Score.Text = (int.Parse(Player1Score.Text) - int.Parse(array_Player1RoundScoreLabel[roundScoreCount].Text)).ToString();
                     this.gameCounter = 0;
                     foreach (Label item in array_Player2ScoreLabel) item.Text = "---";
+                    ScoreBox1.Text = "";
                 }
-                else
-                {
-                    array_Player1ScoreLabel[this.gameCounter].Text = ScoreBox1.Text;
-                    this.gameCounter++;
-                }
-
             }
-
         }
 
         private void ScoreBox2_KeyDown(object sender, KeyEventArgs e)
@@ -73,6 +72,10 @@ namespace DartsApp
             int i;
             if (e.KeyData == Keys.Enter && int.TryParse(ScoreBox2.Text, out i) && int.Parse(ScoreBox2.Text) <= 60)
             {
+                array_Player2ScoreLabel[this.gameCounter].Text = ScoreBox2.Text;
+                ScoreBox2.Text = "";
+                this.gameCounter++;
+
                 if (this.gameCounter >= 3)
                 { 
                     ScoreBox2.Enabled = false;
@@ -83,39 +86,39 @@ namespace DartsApp
 
                     this.gameCounter = 0;
                     foreach (Label item in array_Player1ScoreLabel) item.Text = "---";
+                    ScoreBox2.Text = "";
                     this.roundScoreCount++;
-                }
-                else
-                {
-                    array_Player2ScoreLabel[this.gameCounter].Text = ScoreBox2.Text;
-                    this.gameCounter++;
+
+                    if (this.roundScoreCount >= 12)
+                    {
+                        MessageBox.Show("引き分けです");
+                        ScoreBox1.Enabled = false;
+                        ScoreBox2.Enabled = false;
+                    }
                 }
             }
-        }
-
-        private void label55_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void zerooneForm_Load(object sender, EventArgs e)
-        {
-
         }
 
         private void PlayerScore_TextChanged(object sender, EventArgs e)
         {
-            if(Player1Score.Text != "" && int.Parse(Player1Score.Text) <= 0)
-            {
-                MessageBox.Show("Player1の勝利！！");
-                ScoreBox1.Enabled = false;
-                ScoreBox2.Enabled = false;
-            }
-            else if(Player2Score.Text != "" && int.Parse(Player2Score.Text) <= 0)
-            {
-                MessageBox.Show("Player2の勝利！！");
-                ScoreBox1.Enabled = false;
-                ScoreBox2.Enabled = false;
+            if (finishFlag)
+            { 
+                if(Player1Score.Text != "" && int.Parse(Player1Score.Text) <= 0)
+                {
+                    MessageBox.Show("Player1の勝利！！");
+                    ScoreBox1.Enabled = false;
+                    ScoreBox2.Enabled = false;
+                    finishFlag = false;
+                    Player1Score.Text = "0";
+                }
+                else if(Player2Score.Text != "" && int.Parse(Player2Score.Text) <= 0)
+                {
+                    MessageBox.Show("Player2の勝利！！");
+                    ScoreBox1.Enabled = false;
+                    ScoreBox2.Enabled = false;
+                    finishFlag = false;
+                    Player2Score.Text = "0";
+                }
             }
         }
     }

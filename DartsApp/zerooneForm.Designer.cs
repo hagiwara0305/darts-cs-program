@@ -540,7 +540,7 @@
             // 
             this.Player2_RoundScore12.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.Player2_RoundScore12.Font = new System.Drawing.Font("ＭＳ ゴシック", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
-            this.Player2_RoundScore12.Location = new System.Drawing.Point(2448, 819);
+            this.Player2_RoundScore12.Location = new System.Drawing.Point(2523, 819);
             this.Player2_RoundScore12.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
             this.Player2_RoundScore12.Name = "Player2_RoundScore12";
             this.Player2_RoundScore12.Size = new System.Drawing.Size(152, 74);
@@ -551,7 +551,7 @@
             // 
             this.Player2_RoundScore11.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.Player2_RoundScore11.Font = new System.Drawing.Font("ＭＳ ゴシック", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
-            this.Player2_RoundScore11.Location = new System.Drawing.Point(2448, 746);
+            this.Player2_RoundScore11.Location = new System.Drawing.Point(2523, 746);
             this.Player2_RoundScore11.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
             this.Player2_RoundScore11.Name = "Player2_RoundScore11";
             this.Player2_RoundScore11.Size = new System.Drawing.Size(152, 74);
@@ -562,7 +562,7 @@
             // 
             this.label19.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.label19.Font = new System.Drawing.Font("ＭＳ ゴシック", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
-            this.label19.Location = new System.Drawing.Point(2325, 819);
+            this.label19.Location = new System.Drawing.Point(2400, 819);
             this.label19.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
             this.label19.Name = "label19";
             this.label19.Size = new System.Drawing.Size(132, 74);
@@ -573,7 +573,7 @@
             // 
             this.label22.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.label22.Font = new System.Drawing.Font("ＭＳ ゴシック", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
-            this.label22.Location = new System.Drawing.Point(2325, 746);
+            this.label22.Location = new System.Drawing.Point(2400, 746);
             this.label22.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
             this.label22.Name = "label22";
             this.label22.Size = new System.Drawing.Size(132, 74);
@@ -584,7 +584,7 @@
             // 
             this.Player2_RoundScore10.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.Player2_RoundScore10.Font = new System.Drawing.Font("ＭＳ ゴシック", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
-            this.Player2_RoundScore10.Location = new System.Drawing.Point(2448, 670);
+            this.Player2_RoundScore10.Location = new System.Drawing.Point(2523, 670);
             this.Player2_RoundScore10.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
             this.Player2_RoundScore10.Name = "Player2_RoundScore10";
             this.Player2_RoundScore10.Size = new System.Drawing.Size(152, 74);
@@ -595,7 +595,7 @@
             // 
             this.Player2_RoundScore9.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.Player2_RoundScore9.Font = new System.Drawing.Font("ＭＳ ゴシック", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
-            this.Player2_RoundScore9.Location = new System.Drawing.Point(2448, 598);
+            this.Player2_RoundScore9.Location = new System.Drawing.Point(2523, 598);
             this.Player2_RoundScore9.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
             this.Player2_RoundScore9.Name = "Player2_RoundScore9";
             this.Player2_RoundScore9.Size = new System.Drawing.Size(152, 74);
@@ -606,7 +606,7 @@
             // 
             this.Player2_RoundScore8.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.Player2_RoundScore8.Font = new System.Drawing.Font("ＭＳ ゴシック", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
-            this.Player2_RoundScore8.Location = new System.Drawing.Point(2448, 525);
+            this.Player2_RoundScore8.Location = new System.Drawing.Point(2523, 525);
             this.Player2_RoundScore8.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
             this.Player2_RoundScore8.Name = "Player2_RoundScore8";
             this.Player2_RoundScore8.Size = new System.Drawing.Size(152, 74);
@@ -617,7 +617,7 @@
             // 
             this.Player2_RoundScore7.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.Player2_RoundScore7.Font = new System.Drawing.Font("ＭＳ ゴシック", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
-            this.Player2_RoundScore7.Location = new System.Drawing.Point(2448, 452);
+            this.Player2_RoundScore7.Location = new System.Drawing.Point(2523, 452);
             this.Player2_RoundScore7.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
             this.Player2_RoundScore7.Name = "Player2_RoundScore7";
             this.Player2_RoundScore7.Size = new System.Drawing.Size(152, 74);
@@ -628,7 +628,7 @@
             // 
             this.label39.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.label39.Font = new System.Drawing.Font("ＭＳ ゴシック", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
-            this.label39.Location = new System.Drawing.Point(2325, 670);
+            this.label39.Location = new System.Drawing.Point(2400, 670);
             this.label39.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
             this.label39.Name = "label39";
             this.label39.Size = new System.Drawing.Size(132, 74);
@@ -639,7 +639,7 @@
             // 
             this.label40.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.label40.Font = new System.Drawing.Font("ＭＳ ゴシック", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
-            this.label40.Location = new System.Drawing.Point(2325, 525);
+            this.label40.Location = new System.Drawing.Point(2400, 525);
             this.label40.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
             this.label40.Name = "label40";
             this.label40.Size = new System.Drawing.Size(98, 74);
@@ -650,7 +650,7 @@
             // 
             this.label41.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.label41.Font = new System.Drawing.Font("ＭＳ ゴシック", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
-            this.label41.Location = new System.Drawing.Point(2325, 598);
+            this.label41.Location = new System.Drawing.Point(2400, 598);
             this.label41.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
             this.label41.Name = "label41";
             this.label41.Size = new System.Drawing.Size(98, 74);
@@ -672,7 +672,7 @@
             // 
             this.label43.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.label43.Font = new System.Drawing.Font("ＭＳ ゴシック", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
-            this.label43.Location = new System.Drawing.Point(2325, 452);
+            this.label43.Location = new System.Drawing.Point(2400, 452);
             this.label43.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
             this.label43.Name = "label43";
             this.label43.Size = new System.Drawing.Size(98, 74);
@@ -809,7 +809,6 @@
             this.label55.Name = "label55";
             this.label55.Size = new System.Drawing.Size(584, 584);
             this.label55.TabIndex = 66;
-            this.label55.Click += new System.EventHandler(this.label55_Click);
             // 
             // Player2_ScoreLabel1
             // 
@@ -951,7 +950,6 @@
             this.Margin = new System.Windows.Forms.Padding(5, 4, 5, 4);
             this.Name = "zerooneForm";
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
-            this.Load += new System.EventHandler(this.zerooneForm_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

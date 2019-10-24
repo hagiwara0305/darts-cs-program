@@ -28,89 +28,89 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.ScoreBox = new System.Windows.Forms.TextBox();
+            this.ScoreBox1 = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
-            this.RoundScore1 = new System.Windows.Forms.Label();
+            this.Player1_RoundScore1 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
             this.label6 = new System.Windows.Forms.Label();
             this.label7 = new System.Windows.Forms.Label();
-            this.RoundScore2 = new System.Windows.Forms.Label();
-            this.RoundScore4 = new System.Windows.Forms.Label();
-            this.RoundScore3 = new System.Windows.Forms.Label();
-            this.RoundScore5 = new System.Windows.Forms.Label();
-            this.RoundScore10 = new System.Windows.Forms.Label();
-            this.RoundScore9 = new System.Windows.Forms.Label();
-            this.RoundScore8 = new System.Windows.Forms.Label();
-            this.RoundScore7 = new System.Windows.Forms.Label();
+            this.Player1_RoundScore2 = new System.Windows.Forms.Label();
+            this.Player1_RoundScore4 = new System.Windows.Forms.Label();
+            this.Player1_RoundScore3 = new System.Windows.Forms.Label();
+            this.Player1_RoundScore5 = new System.Windows.Forms.Label();
+            this.Player1_RoundScore10 = new System.Windows.Forms.Label();
+            this.Player1_RoundScore9 = new System.Windows.Forms.Label();
+            this.Player1_RoundScore8 = new System.Windows.Forms.Label();
+            this.Player1_RoundScore7 = new System.Windows.Forms.Label();
             this.label16 = new System.Windows.Forms.Label();
             this.label17 = new System.Windows.Forms.Label();
             this.label18 = new System.Windows.Forms.Label();
-            this.RoundScore6 = new System.Windows.Forms.Label();
+            this.Player1_RoundScore6 = new System.Windows.Forms.Label();
             this.label20 = new System.Windows.Forms.Label();
             this.label21 = new System.Windows.Forms.Label();
-            this.RoundScore12 = new System.Windows.Forms.Label();
-            this.RoundScore11 = new System.Windows.Forms.Label();
+            this.Player1_RoundScore12 = new System.Windows.Forms.Label();
+            this.Player1_RoundScore11 = new System.Windows.Forms.Label();
             this.label24 = new System.Windows.Forms.Label();
             this.label25 = new System.Windows.Forms.Label();
             this.label26 = new System.Windows.Forms.Label();
-            this.label27 = new System.Windows.Forms.Label();
             this.label28 = new System.Windows.Forms.Label();
             this.label29 = new System.Windows.Forms.Label();
             this.label30 = new System.Windows.Forms.Label();
-            this.PlayerScore = new System.Windows.Forms.Label();
-            this.label32 = new System.Windows.Forms.Label();
+            this.Player1Score = new System.Windows.Forms.Label();
+            this.Player2Score = new System.Windows.Forms.Label();
             this.label33 = new System.Windows.Forms.Label();
             this.label34 = new System.Windows.Forms.Label();
             this.label35 = new System.Windows.Forms.Label();
             this.label36 = new System.Windows.Forms.Label();
-            this.ScoreLabel2 = new System.Windows.Forms.Label();
-            this.ScoreLabel3 = new System.Windows.Forms.Label();
-            this.ScoreLabel1 = new System.Windows.Forms.Label();
+            this.Player1_ScoreLabel2 = new System.Windows.Forms.Label();
+            this.Player1_ScoreLabel3 = new System.Windows.Forms.Label();
+            this.Player1_ScoreLabel1 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
             this.label8 = new System.Windows.Forms.Label();
             this.label13 = new System.Windows.Forms.Label();
-            this.label14 = new System.Windows.Forms.Label();
-            this.label15 = new System.Windows.Forms.Label();
+            this.Player2_RoundScore12 = new System.Windows.Forms.Label();
+            this.Player2_RoundScore11 = new System.Windows.Forms.Label();
             this.label19 = new System.Windows.Forms.Label();
             this.label22 = new System.Windows.Forms.Label();
-            this.label23 = new System.Windows.Forms.Label();
-            this.label31 = new System.Windows.Forms.Label();
-            this.label37 = new System.Windows.Forms.Label();
-            this.label38 = new System.Windows.Forms.Label();
+            this.Player2_RoundScore10 = new System.Windows.Forms.Label();
+            this.Player2_RoundScore9 = new System.Windows.Forms.Label();
+            this.Player2_RoundScore8 = new System.Windows.Forms.Label();
+            this.Player2_RoundScore7 = new System.Windows.Forms.Label();
             this.label39 = new System.Windows.Forms.Label();
             this.label40 = new System.Windows.Forms.Label();
             this.label41 = new System.Windows.Forms.Label();
-            this.label42 = new System.Windows.Forms.Label();
+            this.Player2_RoundScore6 = new System.Windows.Forms.Label();
             this.label43 = new System.Windows.Forms.Label();
             this.label44 = new System.Windows.Forms.Label();
-            this.label45 = new System.Windows.Forms.Label();
-            this.label46 = new System.Windows.Forms.Label();
-            this.label47 = new System.Windows.Forms.Label();
-            this.label48 = new System.Windows.Forms.Label();
+            this.Player2_RoundScore5 = new System.Windows.Forms.Label();
+            this.Player2_RoundScore4 = new System.Windows.Forms.Label();
+            this.Player2_RoundScore3 = new System.Windows.Forms.Label();
+            this.Player2_RoundScore2 = new System.Windows.Forms.Label();
             this.label49 = new System.Windows.Forms.Label();
             this.label50 = new System.Windows.Forms.Label();
             this.label51 = new System.Windows.Forms.Label();
-            this.label52 = new System.Windows.Forms.Label();
+            this.Player2_RoundScore1 = new System.Windows.Forms.Label();
             this.label53 = new System.Windows.Forms.Label();
             this.label54 = new System.Windows.Forms.Label();
             this.label55 = new System.Windows.Forms.Label();
-            this.label9 = new System.Windows.Forms.Label();
-            this.label10 = new System.Windows.Forms.Label();
-            this.label11 = new System.Windows.Forms.Label();
+            this.Player2_ScoreLabel1 = new System.Windows.Forms.Label();
+            this.Player2_ScoreLabel3 = new System.Windows.Forms.Label();
+            this.Player2_ScoreLabel2 = new System.Windows.Forms.Label();
             this.label12 = new System.Windows.Forms.Label();
+            this.ScoreBox2 = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
-            // ScoreBox
+            // ScoreBox1
             // 
-            this.ScoreBox.Font = new System.Drawing.Font("MS UI Gothic", 40F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
-            this.ScoreBox.Location = new System.Drawing.Point(400, 18);
-            this.ScoreBox.Margin = new System.Windows.Forms.Padding(5, 4, 5, 4);
-            this.ScoreBox.Name = "ScoreBox";
-            this.ScoreBox.Size = new System.Drawing.Size(644, 87);
-            this.ScoreBox.TabIndex = 0;
-            this.ScoreBox.KeyDown += new System.Windows.Forms.KeyEventHandler(this.ScoreBox_KeyDown);
+            this.ScoreBox1.Font = new System.Drawing.Font("MS UI Gothic", 40F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
+            this.ScoreBox1.Location = new System.Drawing.Point(457, 224);
+            this.ScoreBox1.Margin = new System.Windows.Forms.Padding(5, 4, 5, 4);
+            this.ScoreBox1.Name = "ScoreBox1";
+            this.ScoreBox1.Size = new System.Drawing.Size(644, 87);
+            this.ScoreBox1.TabIndex = 0;
+            this.ScoreBox1.KeyDown += new System.Windows.Forms.KeyEventHandler(this.ScoreBox1_KeyDown);
             // 
             // label1
             // 
@@ -144,15 +144,15 @@
             this.label3.TabIndex = 3;
             this.label3.Text = "R2";
             // 
-            // RoundScore1
+            // Player1_RoundScore1
             // 
-            this.RoundScore1.Font = new System.Drawing.Font("ＭＳ ゴシック", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
-            this.RoundScore1.Location = new System.Drawing.Point(188, 440);
-            this.RoundScore1.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
-            this.RoundScore1.Name = "RoundScore1";
-            this.RoundScore1.Size = new System.Drawing.Size(152, 74);
-            this.RoundScore1.TabIndex = 4;
-            this.RoundScore1.Text = "---";
+            this.Player1_RoundScore1.Font = new System.Drawing.Font("ＭＳ ゴシック", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
+            this.Player1_RoundScore1.Location = new System.Drawing.Point(188, 440);
+            this.Player1_RoundScore1.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
+            this.Player1_RoundScore1.Name = "Player1_RoundScore1";
+            this.Player1_RoundScore1.Size = new System.Drawing.Size(152, 74);
+            this.Player1_RoundScore1.TabIndex = 4;
+            this.Player1_RoundScore1.Text = "---";
             // 
             // label5
             // 
@@ -184,85 +184,85 @@
             this.label7.TabIndex = 7;
             this.label7.Text = "R5";
             // 
-            // RoundScore2
+            // Player1_RoundScore2
             // 
-            this.RoundScore2.Font = new System.Drawing.Font("ＭＳ ゴシック", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
-            this.RoundScore2.Location = new System.Drawing.Point(188, 513);
-            this.RoundScore2.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
-            this.RoundScore2.Name = "RoundScore2";
-            this.RoundScore2.Size = new System.Drawing.Size(152, 74);
-            this.RoundScore2.TabIndex = 8;
-            this.RoundScore2.Text = "---";
+            this.Player1_RoundScore2.Font = new System.Drawing.Font("ＭＳ ゴシック", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
+            this.Player1_RoundScore2.Location = new System.Drawing.Point(188, 513);
+            this.Player1_RoundScore2.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
+            this.Player1_RoundScore2.Name = "Player1_RoundScore2";
+            this.Player1_RoundScore2.Size = new System.Drawing.Size(152, 74);
+            this.Player1_RoundScore2.TabIndex = 8;
+            this.Player1_RoundScore2.Text = "---";
             // 
-            // RoundScore4
+            // Player1_RoundScore4
             // 
-            this.RoundScore4.Font = new System.Drawing.Font("ＭＳ ゴシック", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
-            this.RoundScore4.Location = new System.Drawing.Point(188, 658);
-            this.RoundScore4.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
-            this.RoundScore4.Name = "RoundScore4";
-            this.RoundScore4.Size = new System.Drawing.Size(152, 74);
-            this.RoundScore4.TabIndex = 10;
-            this.RoundScore4.Text = "---";
+            this.Player1_RoundScore4.Font = new System.Drawing.Font("ＭＳ ゴシック", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
+            this.Player1_RoundScore4.Location = new System.Drawing.Point(188, 658);
+            this.Player1_RoundScore4.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
+            this.Player1_RoundScore4.Name = "Player1_RoundScore4";
+            this.Player1_RoundScore4.Size = new System.Drawing.Size(152, 74);
+            this.Player1_RoundScore4.TabIndex = 10;
+            this.Player1_RoundScore4.Text = "---";
             // 
-            // RoundScore3
+            // Player1_RoundScore3
             // 
-            this.RoundScore3.Font = new System.Drawing.Font("ＭＳ ゴシック", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
-            this.RoundScore3.Location = new System.Drawing.Point(188, 586);
-            this.RoundScore3.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
-            this.RoundScore3.Name = "RoundScore3";
-            this.RoundScore3.Size = new System.Drawing.Size(152, 74);
-            this.RoundScore3.TabIndex = 9;
-            this.RoundScore3.Text = "---";
+            this.Player1_RoundScore3.Font = new System.Drawing.Font("ＭＳ ゴシック", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
+            this.Player1_RoundScore3.Location = new System.Drawing.Point(188, 586);
+            this.Player1_RoundScore3.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
+            this.Player1_RoundScore3.Name = "Player1_RoundScore3";
+            this.Player1_RoundScore3.Size = new System.Drawing.Size(152, 74);
+            this.Player1_RoundScore3.TabIndex = 9;
+            this.Player1_RoundScore3.Text = "---";
             // 
-            // RoundScore5
+            // Player1_RoundScore5
             // 
-            this.RoundScore5.Font = new System.Drawing.Font("ＭＳ ゴシック", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
-            this.RoundScore5.Location = new System.Drawing.Point(188, 734);
-            this.RoundScore5.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
-            this.RoundScore5.Name = "RoundScore5";
-            this.RoundScore5.Size = new System.Drawing.Size(152, 74);
-            this.RoundScore5.TabIndex = 11;
-            this.RoundScore5.Text = "---";
+            this.Player1_RoundScore5.Font = new System.Drawing.Font("ＭＳ ゴシック", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
+            this.Player1_RoundScore5.Location = new System.Drawing.Point(188, 734);
+            this.Player1_RoundScore5.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
+            this.Player1_RoundScore5.Name = "Player1_RoundScore5";
+            this.Player1_RoundScore5.Size = new System.Drawing.Size(152, 74);
+            this.Player1_RoundScore5.TabIndex = 11;
+            this.Player1_RoundScore5.Text = "---";
             // 
-            // RoundScore10
+            // Player1_RoundScore10
             // 
-            this.RoundScore10.Font = new System.Drawing.Font("ＭＳ ゴシック", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
-            this.RoundScore10.Location = new System.Drawing.Point(447, 658);
-            this.RoundScore10.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
-            this.RoundScore10.Name = "RoundScore10";
-            this.RoundScore10.Size = new System.Drawing.Size(152, 74);
-            this.RoundScore10.TabIndex = 21;
-            this.RoundScore10.Text = "---";
+            this.Player1_RoundScore10.Font = new System.Drawing.Font("ＭＳ ゴシック", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
+            this.Player1_RoundScore10.Location = new System.Drawing.Point(447, 658);
+            this.Player1_RoundScore10.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
+            this.Player1_RoundScore10.Name = "Player1_RoundScore10";
+            this.Player1_RoundScore10.Size = new System.Drawing.Size(152, 74);
+            this.Player1_RoundScore10.TabIndex = 21;
+            this.Player1_RoundScore10.Text = "---";
             // 
-            // RoundScore9
+            // Player1_RoundScore9
             // 
-            this.RoundScore9.Font = new System.Drawing.Font("ＭＳ ゴシック", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
-            this.RoundScore9.Location = new System.Drawing.Point(447, 586);
-            this.RoundScore9.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
-            this.RoundScore9.Name = "RoundScore9";
-            this.RoundScore9.Size = new System.Drawing.Size(152, 74);
-            this.RoundScore9.TabIndex = 20;
-            this.RoundScore9.Text = "---";
+            this.Player1_RoundScore9.Font = new System.Drawing.Font("ＭＳ ゴシック", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
+            this.Player1_RoundScore9.Location = new System.Drawing.Point(447, 586);
+            this.Player1_RoundScore9.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
+            this.Player1_RoundScore9.Name = "Player1_RoundScore9";
+            this.Player1_RoundScore9.Size = new System.Drawing.Size(152, 74);
+            this.Player1_RoundScore9.TabIndex = 20;
+            this.Player1_RoundScore9.Text = "---";
             // 
-            // RoundScore8
+            // Player1_RoundScore8
             // 
-            this.RoundScore8.Font = new System.Drawing.Font("ＭＳ ゴシック", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
-            this.RoundScore8.Location = new System.Drawing.Point(447, 513);
-            this.RoundScore8.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
-            this.RoundScore8.Name = "RoundScore8";
-            this.RoundScore8.Size = new System.Drawing.Size(152, 74);
-            this.RoundScore8.TabIndex = 19;
-            this.RoundScore8.Text = "---";
+            this.Player1_RoundScore8.Font = new System.Drawing.Font("ＭＳ ゴシック", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
+            this.Player1_RoundScore8.Location = new System.Drawing.Point(447, 513);
+            this.Player1_RoundScore8.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
+            this.Player1_RoundScore8.Name = "Player1_RoundScore8";
+            this.Player1_RoundScore8.Size = new System.Drawing.Size(152, 74);
+            this.Player1_RoundScore8.TabIndex = 19;
+            this.Player1_RoundScore8.Text = "---";
             // 
-            // RoundScore7
+            // Player1_RoundScore7
             // 
-            this.RoundScore7.Font = new System.Drawing.Font("ＭＳ ゴシック", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
-            this.RoundScore7.Location = new System.Drawing.Point(447, 440);
-            this.RoundScore7.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
-            this.RoundScore7.Name = "RoundScore7";
-            this.RoundScore7.Size = new System.Drawing.Size(152, 74);
-            this.RoundScore7.TabIndex = 18;
-            this.RoundScore7.Text = "---";
+            this.Player1_RoundScore7.Font = new System.Drawing.Font("ＭＳ ゴシック", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
+            this.Player1_RoundScore7.Location = new System.Drawing.Point(447, 440);
+            this.Player1_RoundScore7.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
+            this.Player1_RoundScore7.Name = "Player1_RoundScore7";
+            this.Player1_RoundScore7.Size = new System.Drawing.Size(152, 74);
+            this.Player1_RoundScore7.TabIndex = 18;
+            this.Player1_RoundScore7.Text = "---";
             // 
             // label16
             // 
@@ -294,15 +294,15 @@
             this.label18.TabIndex = 15;
             this.label18.Text = "R9";
             // 
-            // RoundScore6
+            // Player1_RoundScore6
             // 
-            this.RoundScore6.Font = new System.Drawing.Font("ＭＳ ゴシック", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
-            this.RoundScore6.Location = new System.Drawing.Point(188, 807);
-            this.RoundScore6.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
-            this.RoundScore6.Name = "RoundScore6";
-            this.RoundScore6.Size = new System.Drawing.Size(152, 74);
-            this.RoundScore6.TabIndex = 14;
-            this.RoundScore6.Text = "---";
+            this.Player1_RoundScore6.Font = new System.Drawing.Font("ＭＳ ゴシック", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
+            this.Player1_RoundScore6.Location = new System.Drawing.Point(188, 807);
+            this.Player1_RoundScore6.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
+            this.Player1_RoundScore6.Name = "Player1_RoundScore6";
+            this.Player1_RoundScore6.Size = new System.Drawing.Size(152, 74);
+            this.Player1_RoundScore6.TabIndex = 14;
+            this.Player1_RoundScore6.Text = "---";
             // 
             // label20
             // 
@@ -324,25 +324,25 @@
             this.label21.TabIndex = 12;
             this.label21.Text = "R6";
             // 
-            // RoundScore12
+            // Player1_RoundScore12
             // 
-            this.RoundScore12.Font = new System.Drawing.Font("ＭＳ ゴシック", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
-            this.RoundScore12.Location = new System.Drawing.Point(447, 807);
-            this.RoundScore12.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
-            this.RoundScore12.Name = "RoundScore12";
-            this.RoundScore12.Size = new System.Drawing.Size(152, 74);
-            this.RoundScore12.TabIndex = 25;
-            this.RoundScore12.Text = "---";
+            this.Player1_RoundScore12.Font = new System.Drawing.Font("ＭＳ ゴシック", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
+            this.Player1_RoundScore12.Location = new System.Drawing.Point(447, 807);
+            this.Player1_RoundScore12.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
+            this.Player1_RoundScore12.Name = "Player1_RoundScore12";
+            this.Player1_RoundScore12.Size = new System.Drawing.Size(152, 74);
+            this.Player1_RoundScore12.TabIndex = 25;
+            this.Player1_RoundScore12.Text = "---";
             // 
-            // RoundScore11
+            // Player1_RoundScore11
             // 
-            this.RoundScore11.Font = new System.Drawing.Font("ＭＳ ゴシック", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
-            this.RoundScore11.Location = new System.Drawing.Point(447, 734);
-            this.RoundScore11.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
-            this.RoundScore11.Name = "RoundScore11";
-            this.RoundScore11.Size = new System.Drawing.Size(152, 74);
-            this.RoundScore11.TabIndex = 24;
-            this.RoundScore11.Text = "---";
+            this.Player1_RoundScore11.Font = new System.Drawing.Font("ＭＳ ゴシック", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
+            this.Player1_RoundScore11.Location = new System.Drawing.Point(447, 734);
+            this.Player1_RoundScore11.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
+            this.Player1_RoundScore11.Name = "Player1_RoundScore11";
+            this.Player1_RoundScore11.Size = new System.Drawing.Size(152, 74);
+            this.Player1_RoundScore11.TabIndex = 24;
+            this.Player1_RoundScore11.Text = "---";
             // 
             // label24
             // 
@@ -374,16 +374,6 @@
             this.label26.TabIndex = 26;
             this.label26.Text = "ROUND SCORE";
             // 
-            // label27
-            // 
-            this.label27.Font = new System.Drawing.Font("ＭＳ ゴシック", 50F, System.Drawing.FontStyle.Bold);
-            this.label27.Location = new System.Drawing.Point(115, 18);
-            this.label27.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
-            this.label27.Name = "label27";
-            this.label27.Size = new System.Drawing.Size(275, 120);
-            this.label27.TabIndex = 27;
-            this.label27.Text = "301";
-            // 
             // label28
             // 
             this.label28.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
@@ -411,27 +401,29 @@
             this.label30.Size = new System.Drawing.Size(15, 584);
             this.label30.TabIndex = 30;
             // 
-            // PlayerScore
+            // Player1Score
             // 
-            this.PlayerScore.Font = new System.Drawing.Font("ＭＳ ゴシック", 100F, System.Drawing.FontStyle.Bold);
-            this.PlayerScore.Location = new System.Drawing.Point(1070, 1242);
-            this.PlayerScore.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
-            this.PlayerScore.Name = "PlayerScore";
-            this.PlayerScore.Size = new System.Drawing.Size(473, 291);
-            this.PlayerScore.TabIndex = 31;
-            this.PlayerScore.Text = "301";
-            this.PlayerScore.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.Player1Score.Font = new System.Drawing.Font("ＭＳ ゴシック", 100F, System.Drawing.FontStyle.Bold);
+            this.Player1Score.Location = new System.Drawing.Point(1070, 1242);
+            this.Player1Score.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
+            this.Player1Score.Name = "Player1Score";
+            this.Player1Score.Size = new System.Drawing.Size(473, 291);
+            this.Player1Score.TabIndex = 31;
+            this.Player1Score.Text = "301";
+            this.Player1Score.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.Player1Score.TextChanged += new System.EventHandler(this.PlayerScore_TextChanged);
             // 
-            // label32
+            // Player2Score
             // 
-            this.label32.Font = new System.Drawing.Font("ＭＳ ゴシック", 100F, System.Drawing.FontStyle.Bold);
-            this.label32.Location = new System.Drawing.Point(1665, 1242);
-            this.label32.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
-            this.label32.Name = "label32";
-            this.label32.Size = new System.Drawing.Size(473, 291);
-            this.label32.TabIndex = 32;
-            this.label32.Text = "301";
-            this.label32.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.Player2Score.Font = new System.Drawing.Font("ＭＳ ゴシック", 100F, System.Drawing.FontStyle.Bold);
+            this.Player2Score.Location = new System.Drawing.Point(1665, 1242);
+            this.Player2Score.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
+            this.Player2Score.Name = "Player2Score";
+            this.Player2Score.Size = new System.Drawing.Size(473, 291);
+            this.Player2Score.TabIndex = 32;
+            this.Player2Score.Text = "301";
+            this.Player2Score.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.Player2Score.TextChanged += new System.EventHandler(this.PlayerScore_TextChanged);
             // 
             // label33
             // 
@@ -453,7 +445,7 @@
             this.label34.Name = "label34";
             this.label34.Size = new System.Drawing.Size(473, 291);
             this.label34.TabIndex = 34;
-            this.label34.Text = "ガチ";
+            this.label34.Text = "Player2";
             this.label34.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // label35
@@ -477,61 +469,61 @@
             this.label36.TabIndex = 36;
             this.label36.Text = "DART  RESULT";
             // 
-            // ScoreLabel2
+            // Player1_ScoreLabel2
             // 
-            this.ScoreLabel2.Font = new System.Drawing.Font("ＭＳ ゴシック", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
-            this.ScoreLabel2.Location = new System.Drawing.Point(667, 750);
-            this.ScoreLabel2.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
-            this.ScoreLabel2.Name = "ScoreLabel2";
-            this.ScoreLabel2.Size = new System.Drawing.Size(378, 82);
-            this.ScoreLabel2.TabIndex = 37;
-            this.ScoreLabel2.Text = "---";
-            this.ScoreLabel2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.Player1_ScoreLabel2.Font = new System.Drawing.Font("ＭＳ ゴシック", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
+            this.Player1_ScoreLabel2.Location = new System.Drawing.Point(667, 750);
+            this.Player1_ScoreLabel2.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
+            this.Player1_ScoreLabel2.Name = "Player1_ScoreLabel2";
+            this.Player1_ScoreLabel2.Size = new System.Drawing.Size(378, 82);
+            this.Player1_ScoreLabel2.TabIndex = 37;
+            this.Player1_ScoreLabel2.Text = "---";
+            this.Player1_ScoreLabel2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
-            // ScoreLabel3
+            // Player1_ScoreLabel3
             // 
-            this.ScoreLabel3.Font = new System.Drawing.Font("ＭＳ ゴシック", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
-            this.ScoreLabel3.Location = new System.Drawing.Point(666, 836);
-            this.ScoreLabel3.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
-            this.ScoreLabel3.Name = "ScoreLabel3";
-            this.ScoreLabel3.Size = new System.Drawing.Size(378, 82);
-            this.ScoreLabel3.TabIndex = 38;
-            this.ScoreLabel3.Text = "---";
-            this.ScoreLabel3.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.Player1_ScoreLabel3.Font = new System.Drawing.Font("ＭＳ ゴシック", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
+            this.Player1_ScoreLabel3.Location = new System.Drawing.Point(666, 836);
+            this.Player1_ScoreLabel3.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
+            this.Player1_ScoreLabel3.Name = "Player1_ScoreLabel3";
+            this.Player1_ScoreLabel3.Size = new System.Drawing.Size(378, 82);
+            this.Player1_ScoreLabel3.TabIndex = 38;
+            this.Player1_ScoreLabel3.Text = "---";
+            this.Player1_ScoreLabel3.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
-            // ScoreLabel1
+            // Player1_ScoreLabel1
             // 
-            this.ScoreLabel1.Font = new System.Drawing.Font("ＭＳ ゴシック", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
-            this.ScoreLabel1.Location = new System.Drawing.Point(666, 664);
-            this.ScoreLabel1.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
-            this.ScoreLabel1.Name = "ScoreLabel1";
-            this.ScoreLabel1.Size = new System.Drawing.Size(378, 82);
-            this.ScoreLabel1.TabIndex = 39;
-            this.ScoreLabel1.Text = "---";
-            this.ScoreLabel1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.Player1_ScoreLabel1.Font = new System.Drawing.Font("ＭＳ ゴシック", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
+            this.Player1_ScoreLabel1.Location = new System.Drawing.Point(666, 664);
+            this.Player1_ScoreLabel1.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
+            this.Player1_ScoreLabel1.Name = "Player1_ScoreLabel1";
+            this.Player1_ScoreLabel1.Size = new System.Drawing.Size(378, 82);
+            this.Player1_ScoreLabel1.TabIndex = 39;
+            this.Player1_ScoreLabel1.Text = "---";
+            this.Player1_ScoreLabel1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // label4
             // 
-            this.label4.Font = new System.Drawing.Font("ＭＳ ゴシック", 50F, System.Drawing.FontStyle.Bold);
-            this.label4.Location = new System.Drawing.Point(13, 210);
+            this.label4.Font = new System.Drawing.Font("ＭＳ ゴシック", 40F, System.Drawing.FontStyle.Bold);
+            this.label4.Location = new System.Drawing.Point(71, 199);
             this.label4.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(412, 123);
+            this.label4.Size = new System.Drawing.Size(441, 123);
             this.label4.TabIndex = 40;
             this.label4.Text = "Player1";
-            this.label4.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.label4.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
             // label8
             // 
             this.label8.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.label8.Font = new System.Drawing.Font("ＭＳ ゴシック", 50F, System.Drawing.FontStyle.Bold);
-            this.label8.Location = new System.Drawing.Point(2318, 210);
+            this.label8.Font = new System.Drawing.Font("ＭＳ ゴシック", 40F, System.Drawing.FontStyle.Bold);
+            this.label8.Location = new System.Drawing.Point(2260, 222);
             this.label8.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
             this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(412, 123);
+            this.label8.Size = new System.Drawing.Size(441, 123);
             this.label8.TabIndex = 71;
-            this.label8.Text = "ガチ";
-            this.label8.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.label8.Text = "Player2";
+            this.label8.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             // 
             // label13
             // 
@@ -544,27 +536,27 @@
             this.label13.TabIndex = 65;
             this.label13.Text = "ROUND SCORE";
             // 
-            // label14
+            // Player2_RoundScore12
             // 
-            this.label14.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.label14.Font = new System.Drawing.Font("ＭＳ ゴシック", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
-            this.label14.Location = new System.Drawing.Point(2448, 819);
-            this.label14.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
-            this.label14.Name = "label14";
-            this.label14.Size = new System.Drawing.Size(152, 74);
-            this.label14.TabIndex = 64;
-            this.label14.Text = "---";
+            this.Player2_RoundScore12.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.Player2_RoundScore12.Font = new System.Drawing.Font("ＭＳ ゴシック", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
+            this.Player2_RoundScore12.Location = new System.Drawing.Point(2448, 819);
+            this.Player2_RoundScore12.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
+            this.Player2_RoundScore12.Name = "Player2_RoundScore12";
+            this.Player2_RoundScore12.Size = new System.Drawing.Size(152, 74);
+            this.Player2_RoundScore12.TabIndex = 64;
+            this.Player2_RoundScore12.Text = "---";
             // 
-            // label15
+            // Player2_RoundScore11
             // 
-            this.label15.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.label15.Font = new System.Drawing.Font("ＭＳ ゴシック", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
-            this.label15.Location = new System.Drawing.Point(2448, 746);
-            this.label15.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
-            this.label15.Name = "label15";
-            this.label15.Size = new System.Drawing.Size(152, 74);
-            this.label15.TabIndex = 63;
-            this.label15.Text = "---";
+            this.Player2_RoundScore11.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.Player2_RoundScore11.Font = new System.Drawing.Font("ＭＳ ゴシック", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
+            this.Player2_RoundScore11.Location = new System.Drawing.Point(2448, 746);
+            this.Player2_RoundScore11.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
+            this.Player2_RoundScore11.Name = "Player2_RoundScore11";
+            this.Player2_RoundScore11.Size = new System.Drawing.Size(152, 74);
+            this.Player2_RoundScore11.TabIndex = 63;
+            this.Player2_RoundScore11.Text = "---";
             // 
             // label19
             // 
@@ -588,49 +580,49 @@
             this.label22.TabIndex = 61;
             this.label22.Text = "R11";
             // 
-            // label23
+            // Player2_RoundScore10
             // 
-            this.label23.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.label23.Font = new System.Drawing.Font("ＭＳ ゴシック", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
-            this.label23.Location = new System.Drawing.Point(2448, 670);
-            this.label23.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
-            this.label23.Name = "label23";
-            this.label23.Size = new System.Drawing.Size(152, 74);
-            this.label23.TabIndex = 60;
-            this.label23.Text = "---";
+            this.Player2_RoundScore10.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.Player2_RoundScore10.Font = new System.Drawing.Font("ＭＳ ゴシック", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
+            this.Player2_RoundScore10.Location = new System.Drawing.Point(2448, 670);
+            this.Player2_RoundScore10.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
+            this.Player2_RoundScore10.Name = "Player2_RoundScore10";
+            this.Player2_RoundScore10.Size = new System.Drawing.Size(152, 74);
+            this.Player2_RoundScore10.TabIndex = 60;
+            this.Player2_RoundScore10.Text = "---";
             // 
-            // label31
+            // Player2_RoundScore9
             // 
-            this.label31.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.label31.Font = new System.Drawing.Font("ＭＳ ゴシック", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
-            this.label31.Location = new System.Drawing.Point(2448, 598);
-            this.label31.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
-            this.label31.Name = "label31";
-            this.label31.Size = new System.Drawing.Size(152, 74);
-            this.label31.TabIndex = 59;
-            this.label31.Text = "---";
+            this.Player2_RoundScore9.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.Player2_RoundScore9.Font = new System.Drawing.Font("ＭＳ ゴシック", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
+            this.Player2_RoundScore9.Location = new System.Drawing.Point(2448, 598);
+            this.Player2_RoundScore9.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
+            this.Player2_RoundScore9.Name = "Player2_RoundScore9";
+            this.Player2_RoundScore9.Size = new System.Drawing.Size(152, 74);
+            this.Player2_RoundScore9.TabIndex = 59;
+            this.Player2_RoundScore9.Text = "---";
             // 
-            // label37
+            // Player2_RoundScore8
             // 
-            this.label37.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.label37.Font = new System.Drawing.Font("ＭＳ ゴシック", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
-            this.label37.Location = new System.Drawing.Point(2448, 525);
-            this.label37.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
-            this.label37.Name = "label37";
-            this.label37.Size = new System.Drawing.Size(152, 74);
-            this.label37.TabIndex = 58;
-            this.label37.Text = "---";
+            this.Player2_RoundScore8.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.Player2_RoundScore8.Font = new System.Drawing.Font("ＭＳ ゴシック", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
+            this.Player2_RoundScore8.Location = new System.Drawing.Point(2448, 525);
+            this.Player2_RoundScore8.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
+            this.Player2_RoundScore8.Name = "Player2_RoundScore8";
+            this.Player2_RoundScore8.Size = new System.Drawing.Size(152, 74);
+            this.Player2_RoundScore8.TabIndex = 58;
+            this.Player2_RoundScore8.Text = "---";
             // 
-            // label38
+            // Player2_RoundScore7
             // 
-            this.label38.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.label38.Font = new System.Drawing.Font("ＭＳ ゴシック", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
-            this.label38.Location = new System.Drawing.Point(2448, 452);
-            this.label38.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
-            this.label38.Name = "label38";
-            this.label38.Size = new System.Drawing.Size(152, 74);
-            this.label38.TabIndex = 57;
-            this.label38.Text = "---";
+            this.Player2_RoundScore7.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.Player2_RoundScore7.Font = new System.Drawing.Font("ＭＳ ゴシック", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
+            this.Player2_RoundScore7.Location = new System.Drawing.Point(2448, 452);
+            this.Player2_RoundScore7.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
+            this.Player2_RoundScore7.Name = "Player2_RoundScore7";
+            this.Player2_RoundScore7.Size = new System.Drawing.Size(152, 74);
+            this.Player2_RoundScore7.TabIndex = 57;
+            this.Player2_RoundScore7.Text = "---";
             // 
             // label39
             // 
@@ -665,16 +657,16 @@
             this.label41.TabIndex = 54;
             this.label41.Text = "R9";
             // 
-            // label42
+            // Player2_RoundScore6
             // 
-            this.label42.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.label42.Font = new System.Drawing.Font("ＭＳ ゴシック", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
-            this.label42.Location = new System.Drawing.Point(2235, 819);
-            this.label42.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
-            this.label42.Name = "label42";
-            this.label42.Size = new System.Drawing.Size(152, 74);
-            this.label42.TabIndex = 53;
-            this.label42.Text = "---";
+            this.Player2_RoundScore6.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.Player2_RoundScore6.Font = new System.Drawing.Font("ＭＳ ゴシック", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
+            this.Player2_RoundScore6.Location = new System.Drawing.Point(2235, 819);
+            this.Player2_RoundScore6.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
+            this.Player2_RoundScore6.Name = "Player2_RoundScore6";
+            this.Player2_RoundScore6.Size = new System.Drawing.Size(152, 74);
+            this.Player2_RoundScore6.TabIndex = 53;
+            this.Player2_RoundScore6.Text = "---";
             // 
             // label43
             // 
@@ -698,49 +690,49 @@
             this.label44.TabIndex = 51;
             this.label44.Text = "R6";
             // 
-            // label45
+            // Player2_RoundScore5
             // 
-            this.label45.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.label45.Font = new System.Drawing.Font("ＭＳ ゴシック", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
-            this.label45.Location = new System.Drawing.Point(2235, 746);
-            this.label45.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
-            this.label45.Name = "label45";
-            this.label45.Size = new System.Drawing.Size(152, 74);
-            this.label45.TabIndex = 50;
-            this.label45.Text = "---";
+            this.Player2_RoundScore5.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.Player2_RoundScore5.Font = new System.Drawing.Font("ＭＳ ゴシック", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
+            this.Player2_RoundScore5.Location = new System.Drawing.Point(2235, 746);
+            this.Player2_RoundScore5.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
+            this.Player2_RoundScore5.Name = "Player2_RoundScore5";
+            this.Player2_RoundScore5.Size = new System.Drawing.Size(152, 74);
+            this.Player2_RoundScore5.TabIndex = 50;
+            this.Player2_RoundScore5.Text = "---";
             // 
-            // label46
+            // Player2_RoundScore4
             // 
-            this.label46.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.label46.Font = new System.Drawing.Font("ＭＳ ゴシック", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
-            this.label46.Location = new System.Drawing.Point(2235, 670);
-            this.label46.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
-            this.label46.Name = "label46";
-            this.label46.Size = new System.Drawing.Size(152, 74);
-            this.label46.TabIndex = 49;
-            this.label46.Text = "---";
+            this.Player2_RoundScore4.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.Player2_RoundScore4.Font = new System.Drawing.Font("ＭＳ ゴシック", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
+            this.Player2_RoundScore4.Location = new System.Drawing.Point(2235, 670);
+            this.Player2_RoundScore4.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
+            this.Player2_RoundScore4.Name = "Player2_RoundScore4";
+            this.Player2_RoundScore4.Size = new System.Drawing.Size(152, 74);
+            this.Player2_RoundScore4.TabIndex = 49;
+            this.Player2_RoundScore4.Text = "---";
             // 
-            // label47
+            // Player2_RoundScore3
             // 
-            this.label47.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.label47.Font = new System.Drawing.Font("ＭＳ ゴシック", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
-            this.label47.Location = new System.Drawing.Point(2235, 598);
-            this.label47.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
-            this.label47.Name = "label47";
-            this.label47.Size = new System.Drawing.Size(152, 74);
-            this.label47.TabIndex = 48;
-            this.label47.Text = "---";
+            this.Player2_RoundScore3.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.Player2_RoundScore3.Font = new System.Drawing.Font("ＭＳ ゴシック", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
+            this.Player2_RoundScore3.Location = new System.Drawing.Point(2235, 598);
+            this.Player2_RoundScore3.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
+            this.Player2_RoundScore3.Name = "Player2_RoundScore3";
+            this.Player2_RoundScore3.Size = new System.Drawing.Size(152, 74);
+            this.Player2_RoundScore3.TabIndex = 48;
+            this.Player2_RoundScore3.Text = "---";
             // 
-            // label48
+            // Player2_RoundScore2
             // 
-            this.label48.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.label48.Font = new System.Drawing.Font("ＭＳ ゴシック", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
-            this.label48.Location = new System.Drawing.Point(2235, 525);
-            this.label48.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
-            this.label48.Name = "label48";
-            this.label48.Size = new System.Drawing.Size(152, 74);
-            this.label48.TabIndex = 47;
-            this.label48.Text = "---";
+            this.Player2_RoundScore2.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.Player2_RoundScore2.Font = new System.Drawing.Font("ＭＳ ゴシック", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
+            this.Player2_RoundScore2.Location = new System.Drawing.Point(2235, 525);
+            this.Player2_RoundScore2.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
+            this.Player2_RoundScore2.Name = "Player2_RoundScore2";
+            this.Player2_RoundScore2.Size = new System.Drawing.Size(152, 74);
+            this.Player2_RoundScore2.TabIndex = 47;
+            this.Player2_RoundScore2.Text = "---";
             // 
             // label49
             // 
@@ -775,16 +767,16 @@
             this.label51.TabIndex = 44;
             this.label51.Text = "R4";
             // 
-            // label52
+            // Player2_RoundScore1
             // 
-            this.label52.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.label52.Font = new System.Drawing.Font("ＭＳ ゴシック", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
-            this.label52.Location = new System.Drawing.Point(2235, 452);
-            this.label52.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
-            this.label52.Name = "label52";
-            this.label52.Size = new System.Drawing.Size(152, 74);
-            this.label52.TabIndex = 43;
-            this.label52.Text = "---";
+            this.Player2_RoundScore1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.Player2_RoundScore1.Font = new System.Drawing.Font("ＭＳ ゴシック", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
+            this.Player2_RoundScore1.Location = new System.Drawing.Point(2235, 452);
+            this.Player2_RoundScore1.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
+            this.Player2_RoundScore1.Name = "Player2_RoundScore1";
+            this.Player2_RoundScore1.Size = new System.Drawing.Size(152, 74);
+            this.Player2_RoundScore1.TabIndex = 43;
+            this.Player2_RoundScore1.Text = "---";
             // 
             // label53
             // 
@@ -819,41 +811,41 @@
             this.label55.TabIndex = 66;
             this.label55.Click += new System.EventHandler(this.label55_Click);
             // 
-            // label9
+            // Player2_ScoreLabel1
             // 
-            this.label9.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.label9.Font = new System.Drawing.Font("ＭＳ ゴシック", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
-            this.label9.Location = new System.Drawing.Point(1729, 676);
-            this.label9.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
-            this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(378, 82);
-            this.label9.TabIndex = 75;
-            this.label9.Text = "---";
-            this.label9.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.Player2_ScoreLabel1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.Player2_ScoreLabel1.Font = new System.Drawing.Font("ＭＳ ゴシック", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
+            this.Player2_ScoreLabel1.Location = new System.Drawing.Point(1729, 676);
+            this.Player2_ScoreLabel1.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
+            this.Player2_ScoreLabel1.Name = "Player2_ScoreLabel1";
+            this.Player2_ScoreLabel1.Size = new System.Drawing.Size(378, 82);
+            this.Player2_ScoreLabel1.TabIndex = 75;
+            this.Player2_ScoreLabel1.Text = "---";
+            this.Player2_ScoreLabel1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
-            // label10
+            // Player2_ScoreLabel3
             // 
-            this.label10.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.label10.Font = new System.Drawing.Font("ＭＳ ゴシック", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
-            this.label10.Location = new System.Drawing.Point(1729, 848);
-            this.label10.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
-            this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(378, 82);
-            this.label10.TabIndex = 74;
-            this.label10.Text = "---";
-            this.label10.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.Player2_ScoreLabel3.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.Player2_ScoreLabel3.Font = new System.Drawing.Font("ＭＳ ゴシック", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
+            this.Player2_ScoreLabel3.Location = new System.Drawing.Point(1729, 848);
+            this.Player2_ScoreLabel3.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
+            this.Player2_ScoreLabel3.Name = "Player2_ScoreLabel3";
+            this.Player2_ScoreLabel3.Size = new System.Drawing.Size(378, 82);
+            this.Player2_ScoreLabel3.TabIndex = 74;
+            this.Player2_ScoreLabel3.Text = "---";
+            this.Player2_ScoreLabel3.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
-            // label11
+            // Player2_ScoreLabel2
             // 
-            this.label11.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.label11.Font = new System.Drawing.Font("ＭＳ ゴシック", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
-            this.label11.Location = new System.Drawing.Point(1730, 762);
-            this.label11.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
-            this.label11.Name = "label11";
-            this.label11.Size = new System.Drawing.Size(378, 82);
-            this.label11.TabIndex = 73;
-            this.label11.Text = "---";
-            this.label11.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.Player2_ScoreLabel2.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.Player2_ScoreLabel2.Font = new System.Drawing.Font("ＭＳ ゴシック", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
+            this.Player2_ScoreLabel2.Location = new System.Drawing.Point(1730, 762);
+            this.Player2_ScoreLabel2.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
+            this.Player2_ScoreLabel2.Name = "Player2_ScoreLabel2";
+            this.Player2_ScoreLabel2.Size = new System.Drawing.Size(378, 82);
+            this.Player2_ScoreLabel2.TabIndex = 73;
+            this.Player2_ScoreLabel2.Text = "---";
+            this.Player2_ScoreLabel2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // label12
             // 
@@ -867,83 +859,95 @@
             this.label12.Text = "DART  RESULT";
             this.label12.TextAlign = System.Drawing.ContentAlignment.TopRight;
             // 
+            // ScoreBox2
+            // 
+            this.ScoreBox2.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.ScoreBox2.Enabled = false;
+            this.ScoreBox2.Font = new System.Drawing.Font("MS UI Gothic", 40F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
+            this.ScoreBox2.Location = new System.Drawing.Point(1606, 235);
+            this.ScoreBox2.Margin = new System.Windows.Forms.Padding(5, 4, 5, 4);
+            this.ScoreBox2.Name = "ScoreBox2";
+            this.ScoreBox2.Size = new System.Drawing.Size(644, 87);
+            this.ScoreBox2.TabIndex = 76;
+            this.ScoreBox2.KeyDown += new System.Windows.Forms.KeyEventHandler(this.ScoreBox2_KeyDown);
+            // 
             // zerooneForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 18F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(2740, 1608);
-            this.Controls.Add(this.label9);
-            this.Controls.Add(this.label10);
-            this.Controls.Add(this.label11);
+            this.Controls.Add(this.ScoreBox1);
+            this.Controls.Add(this.ScoreBox2);
+            this.Controls.Add(this.Player2_ScoreLabel1);
+            this.Controls.Add(this.Player2_ScoreLabel3);
+            this.Controls.Add(this.Player2_ScoreLabel2);
             this.Controls.Add(this.label12);
             this.Controls.Add(this.label8);
             this.Controls.Add(this.label13);
-            this.Controls.Add(this.label14);
-            this.Controls.Add(this.label15);
+            this.Controls.Add(this.Player2_RoundScore12);
+            this.Controls.Add(this.Player2_RoundScore11);
             this.Controls.Add(this.label19);
             this.Controls.Add(this.label22);
-            this.Controls.Add(this.label23);
-            this.Controls.Add(this.label31);
-            this.Controls.Add(this.label37);
-            this.Controls.Add(this.label38);
+            this.Controls.Add(this.Player2_RoundScore10);
+            this.Controls.Add(this.Player2_RoundScore9);
+            this.Controls.Add(this.Player2_RoundScore8);
+            this.Controls.Add(this.Player2_RoundScore7);
             this.Controls.Add(this.label39);
             this.Controls.Add(this.label40);
             this.Controls.Add(this.label41);
-            this.Controls.Add(this.label42);
+            this.Controls.Add(this.Player2_RoundScore6);
             this.Controls.Add(this.label43);
             this.Controls.Add(this.label44);
-            this.Controls.Add(this.label45);
-            this.Controls.Add(this.label46);
-            this.Controls.Add(this.label47);
-            this.Controls.Add(this.label48);
+            this.Controls.Add(this.Player2_RoundScore5);
+            this.Controls.Add(this.Player2_RoundScore4);
+            this.Controls.Add(this.Player2_RoundScore3);
+            this.Controls.Add(this.Player2_RoundScore2);
             this.Controls.Add(this.label49);
             this.Controls.Add(this.label50);
             this.Controls.Add(this.label51);
-            this.Controls.Add(this.label52);
+            this.Controls.Add(this.Player2_RoundScore1);
             this.Controls.Add(this.label53);
             this.Controls.Add(this.label54);
             this.Controls.Add(this.label55);
-            this.Controls.Add(this.label4);
-            this.Controls.Add(this.ScoreLabel1);
-            this.Controls.Add(this.ScoreLabel3);
-            this.Controls.Add(this.ScoreLabel2);
+            this.Controls.Add(this.Player1_ScoreLabel1);
+            this.Controls.Add(this.Player1_ScoreLabel3);
+            this.Controls.Add(this.Player1_ScoreLabel2);
             this.Controls.Add(this.label36);
             this.Controls.Add(this.label35);
             this.Controls.Add(this.label34);
             this.Controls.Add(this.label33);
-            this.Controls.Add(this.label32);
-            this.Controls.Add(this.PlayerScore);
+            this.Controls.Add(this.Player2Score);
+            this.Controls.Add(this.Player1Score);
             this.Controls.Add(this.label30);
-            this.Controls.Add(this.label27);
             this.Controls.Add(this.label26);
-            this.Controls.Add(this.RoundScore12);
-            this.Controls.Add(this.RoundScore11);
+            this.Controls.Add(this.Player1_RoundScore12);
+            this.Controls.Add(this.Player1_RoundScore11);
             this.Controls.Add(this.label24);
             this.Controls.Add(this.label25);
-            this.Controls.Add(this.RoundScore10);
-            this.Controls.Add(this.RoundScore9);
-            this.Controls.Add(this.RoundScore8);
-            this.Controls.Add(this.RoundScore7);
+            this.Controls.Add(this.Player1_RoundScore10);
+            this.Controls.Add(this.Player1_RoundScore9);
+            this.Controls.Add(this.Player1_RoundScore8);
+            this.Controls.Add(this.Player1_RoundScore7);
             this.Controls.Add(this.label16);
             this.Controls.Add(this.label17);
             this.Controls.Add(this.label18);
-            this.Controls.Add(this.RoundScore6);
+            this.Controls.Add(this.Player1_RoundScore6);
             this.Controls.Add(this.label20);
             this.Controls.Add(this.label21);
-            this.Controls.Add(this.RoundScore5);
-            this.Controls.Add(this.RoundScore4);
-            this.Controls.Add(this.RoundScore3);
-            this.Controls.Add(this.RoundScore2);
+            this.Controls.Add(this.Player1_RoundScore5);
+            this.Controls.Add(this.Player1_RoundScore4);
+            this.Controls.Add(this.Player1_RoundScore3);
+            this.Controls.Add(this.Player1_RoundScore2);
             this.Controls.Add(this.label7);
             this.Controls.Add(this.label6);
             this.Controls.Add(this.label5);
-            this.Controls.Add(this.RoundScore1);
+            this.Controls.Add(this.Player1_RoundScore1);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
-            this.Controls.Add(this.ScoreBox);
             this.Controls.Add(this.label28);
             this.Controls.Add(this.label29);
+            this.Controls.Add(this.label4);
             this.Margin = new System.Windows.Forms.Padding(5, 4, 5, 4);
             this.Name = "zerooneForm";
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
@@ -955,77 +959,77 @@
 
         #endregion
 
-        private System.Windows.Forms.TextBox ScoreBox;
+        private System.Windows.Forms.TextBox ScoreBox1;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
-        private System.Windows.Forms.Label RoundScore1;
+        private System.Windows.Forms.Label Player1_RoundScore1;
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.Label label7;
-        private System.Windows.Forms.Label RoundScore2;
-        private System.Windows.Forms.Label RoundScore4;
-        private System.Windows.Forms.Label RoundScore3;
-        private System.Windows.Forms.Label RoundScore5;
-        private System.Windows.Forms.Label RoundScore10;
-        private System.Windows.Forms.Label RoundScore9;
-        private System.Windows.Forms.Label RoundScore8;
-        private System.Windows.Forms.Label RoundScore7;
+        private System.Windows.Forms.Label Player1_RoundScore2;
+        private System.Windows.Forms.Label Player1_RoundScore4;
+        private System.Windows.Forms.Label Player1_RoundScore3;
+        private System.Windows.Forms.Label Player1_RoundScore5;
+        private System.Windows.Forms.Label Player1_RoundScore10;
+        private System.Windows.Forms.Label Player1_RoundScore9;
+        private System.Windows.Forms.Label Player1_RoundScore8;
+        private System.Windows.Forms.Label Player1_RoundScore7;
         private System.Windows.Forms.Label label16;
         private System.Windows.Forms.Label label17;
         private System.Windows.Forms.Label label18;
-        private System.Windows.Forms.Label RoundScore6;
+        private System.Windows.Forms.Label Player1_RoundScore6;
         private System.Windows.Forms.Label label20;
         private System.Windows.Forms.Label label21;
-        private System.Windows.Forms.Label RoundScore12;
-        private System.Windows.Forms.Label RoundScore11;
+        private System.Windows.Forms.Label Player1_RoundScore12;
+        private System.Windows.Forms.Label Player1_RoundScore11;
         private System.Windows.Forms.Label label24;
         private System.Windows.Forms.Label label25;
         private System.Windows.Forms.Label label26;
-        private System.Windows.Forms.Label label27;
         private System.Windows.Forms.Label label28;
         private System.Windows.Forms.Label label29;
         private System.Windows.Forms.Label label30;
-        private System.Windows.Forms.Label PlayerScore;
-        private System.Windows.Forms.Label label32;
+        private System.Windows.Forms.Label Player1Score;
+        private System.Windows.Forms.Label Player2Score;
         private System.Windows.Forms.Label label33;
         private System.Windows.Forms.Label label34;
         private System.Windows.Forms.Label label35;
         private System.Windows.Forms.Label label36;
-        private System.Windows.Forms.Label ScoreLabel2;
-        private System.Windows.Forms.Label ScoreLabel3;
-        private System.Windows.Forms.Label ScoreLabel1;
+        private System.Windows.Forms.Label Player1_ScoreLabel2;
+        private System.Windows.Forms.Label Player1_ScoreLabel3;
+        private System.Windows.Forms.Label Player1_ScoreLabel1;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label label8;
         private System.Windows.Forms.Label label13;
-        private System.Windows.Forms.Label label14;
-        private System.Windows.Forms.Label label15;
+        private System.Windows.Forms.Label Player2_RoundScore12;
+        private System.Windows.Forms.Label Player2_RoundScore11;
         private System.Windows.Forms.Label label19;
         private System.Windows.Forms.Label label22;
-        private System.Windows.Forms.Label label23;
-        private System.Windows.Forms.Label label31;
-        private System.Windows.Forms.Label label37;
-        private System.Windows.Forms.Label label38;
+        private System.Windows.Forms.Label Player2_RoundScore10;
+        private System.Windows.Forms.Label Player2_RoundScore9;
+        private System.Windows.Forms.Label Player2_RoundScore8;
+        private System.Windows.Forms.Label Player2_RoundScore7;
         private System.Windows.Forms.Label label39;
         private System.Windows.Forms.Label label40;
         private System.Windows.Forms.Label label41;
-        private System.Windows.Forms.Label label42;
+        private System.Windows.Forms.Label Player2_RoundScore6;
         private System.Windows.Forms.Label label43;
         private System.Windows.Forms.Label label44;
-        private System.Windows.Forms.Label label45;
-        private System.Windows.Forms.Label label46;
-        private System.Windows.Forms.Label label47;
-        private System.Windows.Forms.Label label48;
+        private System.Windows.Forms.Label Player2_RoundScore5;
+        private System.Windows.Forms.Label Player2_RoundScore4;
+        private System.Windows.Forms.Label Player2_RoundScore3;
+        private System.Windows.Forms.Label Player2_RoundScore2;
         private System.Windows.Forms.Label label49;
         private System.Windows.Forms.Label label50;
         private System.Windows.Forms.Label label51;
-        private System.Windows.Forms.Label label52;
+        private System.Windows.Forms.Label Player2_RoundScore1;
         private System.Windows.Forms.Label label53;
         private System.Windows.Forms.Label label54;
         private System.Windows.Forms.Label label55;
-        private System.Windows.Forms.Label label9;
-        private System.Windows.Forms.Label label10;
-        private System.Windows.Forms.Label label11;
+        private System.Windows.Forms.Label Player2_ScoreLabel1;
+        private System.Windows.Forms.Label Player2_ScoreLabel3;
+        private System.Windows.Forms.Label Player2_ScoreLabel2;
         private System.Windows.Forms.Label label12;
+        private System.Windows.Forms.TextBox ScoreBox2;
     }
 }

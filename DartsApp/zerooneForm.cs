@@ -63,6 +63,7 @@ namespace DartsApp
                     this.gameCounter = 0;
                     foreach (Label item in array_Player2ScoreLabel) item.Text = "---";
                     ScoreBox1.Text = "";
+                    ScoreBox2.Focus();
                 }
             }
         }
@@ -87,6 +88,7 @@ namespace DartsApp
                     this.gameCounter = 0;
                     foreach (Label item in array_Player1ScoreLabel) item.Text = "---";
                     ScoreBox2.Text = "";
+                    ScoreBox1.Focus();
                     this.roundScoreCount++;
 
                     if (this.roundScoreCount >= 12)

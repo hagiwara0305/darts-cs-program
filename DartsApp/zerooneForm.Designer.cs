@@ -29,7 +29,6 @@
         private void InitializeComponent()
         {
             this.ScoreBox1 = new System.Windows.Forms.TextBox();
-            this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.Player1_RoundScore1 = new System.Windows.Forms.Label();
@@ -111,18 +110,6 @@
             this.ScoreBox1.Size = new System.Drawing.Size(644, 87);
             this.ScoreBox1.TabIndex = 0;
             this.ScoreBox1.KeyDown += new System.Windows.Forms.KeyEventHandler(this.ScoreBox1_KeyDown);
-            // 
-            // label1
-            // 
-            this.label1.Anchor = System.Windows.Forms.AnchorStyles.Top;
-            this.label1.Font = new System.Drawing.Font("ＭＳ ゴシック", 200F, System.Drawing.FontStyle.Bold);
-            this.label1.Location = new System.Drawing.Point(973, 482);
-            this.label1.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(890, 448);
-            this.label1.TabIndex = 1;
-            this.label1.Text = "301";
-            this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // label2
             // 
@@ -943,7 +930,6 @@
             this.Controls.Add(this.Player1_RoundScore1);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
-            this.Controls.Add(this.label1);
             this.Controls.Add(this.label28);
             this.Controls.Add(this.label29);
             this.Controls.Add(this.label4);
@@ -958,7 +944,6 @@
         #endregion
 
         private System.Windows.Forms.TextBox ScoreBox1;
-        private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label Player1_RoundScore1;
